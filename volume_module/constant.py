@@ -1,0 +1,13 @@
+VOLUME_ATTACHED_AND_MOUNTED = "Volume attached and mounted on instance successfully."
+VALIDATING_PARAMETERS = "Validating attach to instance request parameters"
+INSTANCE_NOT_IN_RUNNING_STATE = "Instance should be in running state to mount the volume."
+VOLUME_ATTACHED = "Attached volume to instance"
+DETACHING_VOLUME = "Detaching volume from instance"
+DETACHED_SUCCESSFULLY = "Detached Volume Successfully"
+VOLUME_NOT_A_STRING = "Volume Id should be a String"
+INVALID_INSTANCE_ID = "Invalid Volume Id"
+NO_VOLUMES_IN_REGION = 'There are no volumes in this region.'
+VOLUME_CREATED_SUCCESSFULLY = 'Volume created successfully.'
+VOLUME_DELETED_SUCCESSFULLY = 'Volume deleted successfully.'
+NEW_VOLUME_ATTACHED_TO_INSTANCE = 'New volume attached to instance successfully.'
+NEW_VOLUME_CREATED = 'New volume created successfully.'
